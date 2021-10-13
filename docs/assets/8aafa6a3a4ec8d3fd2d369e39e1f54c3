@@ -1,0 +1,17 @@
+{
+  "name": "qrid",
+  "displayName": "Qrid",
+  "expo": {
+    "name": "qrid",
+    "slug": "qrid",
+    "runtimeVersion": "3",
+    "privacy": "unlisted",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "updates": {
+      "enabled": true,
+      "checkAutomatically": "ON_ERROR_RECOVERY"
+    }
+  } 
+}
