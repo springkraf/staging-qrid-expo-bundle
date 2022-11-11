@@ -1,0 +1,18 @@
+{
+  "name": "qrid",
+  "displayName": "Qrid",
+  "expo": {
+    "name": "qrid",
+    "slug": "qrid",
+    "runtimeVersion": "4",
+    "privacy": "unlisted",
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "jsEngine": "hermes"
+    },
+    "updates": {
+      "enabled": true,
+      "checkAutomatically": "ON_ERROR_RECOVERY"
+    }
+  }
+}
